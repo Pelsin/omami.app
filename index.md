@@ -1,7 +1,7 @@
 # Omami dataskyddsinformation (senast uppdaterad 2021/02/17)
 
 Namn: Omami 
-Du når oss på: hej@omami.app 
+Du når oss på: hej[at]omami.app 
 
 Omami är en kostnadsfri app där du hittar vackra och noga utvalda recept från Instagrams främsta matkreatörer och receptskapare. 
 
@@ -30,7 +30,7 @@ Omami strävar efter att alltid behandla dina personuppgifter inom EU. Om Omami 
 Nej! Däremot kan dina personuppgifter behandlas av våra leverantörer/samarbetspartners inom så kallade personuppgiftsbiträdesförhållanden. Omami är då personuppgiftsansvarig och säkerställer att dina personuppgifter är skyddade även när andra parter behandlar dem.
 
 # Vilka rättigheter har du - och var vänder du dig för att klaga?
-Som användare har du flera rättigheter. Du har till exempel rätt att få veta vilka personuppgifter som Omami behandlar om dig. Om du vill utöva dina rättigheter eller har frågor som rör Omamis behandling av dina personuppgifter kan du vända dig till Omami på hej@omami.app
+Som användare har du flera rättigheter. Du har till exempel rätt att få veta vilka personuppgifter som Omami behandlar om dig. Om du vill utöva dina rättigheter eller har frågor som rör Omamis behandling av dina personuppgifter kan du vända dig till Omami på hej[at]omami.app
 
 Dina rättigheter när det kommer till dataskydd är:
 
