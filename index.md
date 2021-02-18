@@ -1,8 +1,6 @@
 # Omami dataskyddsinformation (senast uppdaterad 2021/02/17)
-## _The Last Markdown Editor, Ever_
 
 Namn: Omami 
-
 Du når oss på: hej@omami.app 
 
 Omami är en kostnadsfri app där du hittar vackra och noga utvalda recept från Instagrams främsta matkreatörer och receptskapare. 
